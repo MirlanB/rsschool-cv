@@ -15,4 +15,4 @@ CV
 * **Education**
     * *did not study anywhere*
 * **English language**
-    * *basic school level.. technical English*
+    * *basic school level. technical English*
